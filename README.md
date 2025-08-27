@@ -15,3 +15,5 @@ It allows users to create, edit, and delete notes. Notes are saved in the browse
 - HTML5
 - CSS3
 - Vanilla JavaScript
+
+<img src="Quiz App/pictures/QuizApp.png" alt="NotesApp Preview" width="500">
